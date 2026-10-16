@@ -1,10 +1,7 @@
 # Snake — Free Pascal / Lazarus
 
 A classic Snake game built with Free Pascal and the Lazarus LCL, developed
-as a teaching project for the
-[SilverPascalCoder](https://www.youtube.com/channel/UCEDZT_VZ0oz-gt7Mf_hJp2A)
-YouTube channel.
-
+as a teaching project 
 The project is deliberately built in stages — each version introduces new
 features and better code structure — so it works as both a playable game and
 a practical guide to writing clean, maintainable Pascal.
@@ -43,7 +40,3 @@ and a shipped binary.
 **Requirements:** Free Pascal ≥ 3.2 and Lazarus ≥ 2.2.
 No third-party packages — only the standard LCL.
 
----
-## Licence
-
-MIT — do what you like with it.
